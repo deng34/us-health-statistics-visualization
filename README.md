@@ -41,9 +41,8 @@ us-health-statistics-visualization/
 
 The data is sourced from the [CDC's Behavioral Risk Factor Surveillance System (BRFSS)](https://www.cdc.gov/brfss/index.html), covering the years 2014-2023.
 
-## Setup
-
-Simply open `visualization.html` in a web browser to view the visualization.
+## Demo
+You can view the live visualization here: https://deng34.github.io/us-health-statistics-visualization/visualization.html
 
 ## License
 
